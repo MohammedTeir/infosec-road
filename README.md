@@ -17,7 +17,14 @@ A structured learning path based on industry experience, research, and emerging 
 
 ## 2. Core Technical Skills to Develop
 ### 🌐 Networking Fundamentals
-*The essential building blocks for understanding how systems communicate*
+*The essential building blocks for understanding how systems communicate and secure networks*
+
+- **Network Security Principles**
+  - Defense in depth
+  - Least privilege access
+  - Network segmentation
+  - Zero trust architecture
+  - Security monitoring and logging
 
 - **OSI Model** - Understand the 7 layers and how they interact
 - **TCP/IP Protocol Suite** - Learn the core protocols that power the internet
@@ -28,7 +35,6 @@ A structured learning path based on industry experience, research, and emerging 
 - **Firewall Concepts** - Understand stateful vs. stateless filtering
 - **Packet Analysis** - Master Wireshark and tcpdump for traffic inspection
 - **Network Troubleshooting** - Practice diagnosing and resolving connectivity issues
-- **Network security principles**
 
 ### 💻 Operating Systems
 *You'll need proficiency in both Linux and Windows environments*
@@ -50,35 +56,40 @@ A structured learning path based on industry experience, research, and emerging 
 - **Windows Subsystem for Linux (WSL)** - Bridge between Windows and Linux environments
 
 ### 💡 Programming and Scripting
-*Essential skills for automation and custom exploit development*
+*Essential skills for security analysis, automation, and security tool development*
 
 - **Python**
   - Core language features and libraries
-  - Network programming with Python
-  - Exploit development frameworks (e.g., Scapy, Requests)
+  - Security log analysis
+  - Security tool development
+  - Network traffic analysis
   - Data parsing and manipulation
   - Machine Learning and AI security applications
+  - Security automation scripts
 
 - **Bash/Shell Scripting**
-  - Automation of Linux commands
+  - Log analysis and parsing
+  - Security monitoring scripts
+  - System configuration checks
+  - Automated security assessment tools
   - Text processing with awk, sed, and grep
-  - System administration scripts
 
 - **PowerShell**
-  - Windows automation
-  - Active Directory interaction
-  - Post-exploitation scripting
-
-- **Basic understanding of C/C++**
+  - Security configuration management
+  - Active Directory security assessment
+  - Compliance checking scripts
+  - Security event log analysis
 
 - **Web Application Languages**
   - HTML, CSS, and JavaScript fundamentals
-  - Understanding client-server interaction
-  - API manipulation and testing
+  - Understanding web application security
+  - API security testing
+  - Client-server interaction security
 
 - **Version Control**
   - Git basics for code management
   - Collaboration using GitHub or similar platforms
+  - Managing security scripts and tools
 
 ### 🌨️ Cloud Security
 *Understanding security in cloud environments*
