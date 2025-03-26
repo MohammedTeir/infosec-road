@@ -19,13 +19,6 @@ A structured learning path based on industry experience, research, and emerging 
 ### 🌐 Networking Fundamentals
 *The essential building blocks for understanding how systems communicate and secure networks*
 
-- **Network Security Principles**
-  - Defense in depth
-  - Least privilege access
-  - Network segmentation
-  - Zero trust architecture
-  - Security monitoring and logging
-
 - **OSI Model** - Understand the 7 layers and how they interact
 - **TCP/IP Protocol Suite** - Learn the core protocols that power the internet
 - **Network Architecture** - Topologies, components, and design principles
@@ -35,6 +28,13 @@ A structured learning path based on industry experience, research, and emerging 
 - **Firewall Concepts** - Understand stateful vs. stateless filtering
 - **Packet Analysis** - Master Wireshark and tcpdump for traffic inspection
 - **Network Troubleshooting** - Practice diagnosing and resolving connectivity issues
+- **Network Security Principles**
+  - Defense in depth
+  - Least privilege access
+  - Network segmentation
+  - Zero trust architecture
+  - Security monitoring and logging
+
 
 ### 💻 Operating Systems
 *You'll need proficiency in both Linux and Windows environments*
